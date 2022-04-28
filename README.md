@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Rows Flutter Desktop Application](www.rows.com).
+- 🔭 I’m currently working on [Rows Flutter Desktop Application](https://www.rows.com).
 - 📫 How to reach me: https://twitter.com/Canastro
 
 <a href="https://github.com/canastro/github-readme-stats">
